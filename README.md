@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub Readme Stats -->
-<div style="display: flex; flex-direction: row">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=puchimilk&count_private=true&show_icons=true" style="height: 195px; width: 50%" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puchimilk&layout=compact" style="height: 195px; width: 50%;" />
-  </a>
-</div>
-
+<table>
+  <tr>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=puchimilk&count_private=true&show_icons=true" style="height: 195px; width: 50%" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puchimilk&layout=compact" style="height: 195px; width: 50%;" />
+    </a>
+  </tr>
+</table>
