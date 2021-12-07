@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub Readme Stats -->
-<table>
+<table style="height: 195px; width: 100%;">
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
