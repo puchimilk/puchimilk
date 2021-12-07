@@ -20,12 +20,12 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=puchimilk&count_private=true&show_icons=true" style="height: 195px; width: 50%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=puchimilk&count_private=true&show_icons=true" style="height: 100%; width: 100%" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/convoychat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puchimilk&layout=compact" style="height: 195px; width: 50%;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puchimilk&layout=compact" style="height: 100%; width: 100%;" />
       </a>
     </td>
   </tr>
