@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub Readme Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats" height="">
+<a href="https://github.com/anuraghazra/github-readme-stats" height="195px">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=puchimilk&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat" height="">
+<a href="https://github.com/anuraghazra/convoychat" height="195px">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puchimilk&layout=compact" />
 </a>
