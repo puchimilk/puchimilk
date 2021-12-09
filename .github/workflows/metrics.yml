@@ -25,12 +25,16 @@ jobs:
           use_prebuilt_image: yes # 実行速度向上
 
           # 基本
-          base: header
+          # base: header
+          base: header, activity, community, repositories, metadata
           # 本来は以下全てを表示すべき。今回は省略
           # base: header, activity, community, repositories, metadata
+          #repositories: 100
+          repositories_batch: 25
           repositories_forks: no
           repositories_affiliations: owner, collaborator
           repositories_skipped: puchimilk/puchimilk
+          
 
           # AniList
           plugin_anilist: yes
