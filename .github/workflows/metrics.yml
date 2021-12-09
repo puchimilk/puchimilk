@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # AniListはclassicが必要
-          user: あなたのGitHubユーザー名
+          user: puchimilk
           template: classic
           config_gemoji: yes # non-unicode emojiを使えるように
           config_timezone: Asia/Tokyo
@@ -30,7 +30,7 @@ jobs:
           # base: header, activity, community, repositories, metadata
           repositories_forks: no
           repositories_affiliations: owner, collaborator
-          repositories_skipped: あなたのGitHubユーザー名/あなたのGitHubユーザー名
+          repositories_skipped: puchimilk/puchimilk
 
           # AniList
           plugin_anilist: yes
