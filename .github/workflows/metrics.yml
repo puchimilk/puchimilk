@@ -19,16 +19,15 @@ jobs:
           repo: metries
           
           template: classic
-          config_gemoji: yes # non-unicode emojiを使えるように
+          config_gemoji: yes
           config_timezone: Asia/Tokyo
           retries: 3
           retries_delay: 300
-          use_prebuilt_image: yes # 実行速度向上
-
+          use_prebuilt_image: yes
+          
           base: header, activity, community, repositories, metadata
           repositories: 100
           repositories_batch: 25
           repositories_forks: no
           repositories_affiliations: owner, collaborator
           repositories_skipped: puchimilk/puchimilk
-          commits_authoring: octocat@github.com
