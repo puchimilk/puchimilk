@@ -1,0 +1,79 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
+
+# リファレンス: https://github.com/lowlighter/metrics/blob/master/action.yml
+
+name: Metrics
+on:
+  # 更新間隔
+  schedule: [{ cron: '30 0,12 * * *' }]
+  workflow_dispatch:
+  push: { branches: ['main'] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # トークン
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # AniListはclassicが必要
+          user: あなたのGitHubユーザー名
+          template: classic
+          config_gemoji: yes # non-unicode emojiを使えるように
+          config_timezone: Asia/Tokyo
+          retries: 3
+          retries_delay: 300
+          use_prebuilt_image: yes # 実行速度向上
+
+          # 基本
+          base: header
+          # 本来は以下全てを表示すべき。今回は省略
+          # base: header, activity, community, repositories, metadata
+          repositories_forks: no
+          repositories_affiliations: owner, collaborator
+          repositories_skipped: あなたのGitHubユーザー名/あなたのGitHubユーザー名
+
+          # AniList
+          plugin_anilist: yes
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: characters, watching, reading, favorites
+          plugin_anilist_limit: 2 # キャラ以外の同時表示数
+          plugin_anilist_shuffle: yes # シャッフル
+          plugin_anilist_user: .user.login # ユーザ名がGitHubと揃っている場合はこれでいい
+          plugin_anilist_limit_characters: 22 # キャラ上限
