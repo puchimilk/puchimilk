@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![Metrics](https://github.com/puchimilk/puchimilk/blob/master/github-metrics.svg)
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/puchimilk/puchmilk/blob/main/github-metrics.svg)
+![Metrics](https://github.com/puchimilk/puchimilk/blob/main/github-metrics.svg)
 
 <!-- GitHub Readme Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
