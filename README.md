@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Metrics -->
-<!-- ![Metrics](https://github.com/puchimilk/puchimilk/blob/main/github-metrics.svg) -->
+![Metrics](https://github.com/puchimilk/puchimilk/blob/main/github-metrics.svg)
 
 <!-- GitHub Readme Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
