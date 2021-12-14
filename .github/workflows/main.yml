@@ -26,3 +26,6 @@ jobs:
           repositories_forks: no
           repositories_affiliations: owner, collaborator
           repositories_skipped: puchimilk/puchimilk
+          
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
