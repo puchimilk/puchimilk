@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Stats -->
 [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=puchimilk&pie=false)](https://github.com/evirunurm/github-stats)
+<img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=puchimilk&pie=false" width="100%" />
 
 <!-- Shields IO -->
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=FFFFFF)
