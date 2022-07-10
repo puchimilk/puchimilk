@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 ![Metrics](https://github.com/puchimilk/puchimilk/blob/master/github-metrics.svg)
 
 <!-- GitHub Stats -->
-[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=puchimilk&peng=false)](https://github.com/evirunurm/github-stats)
 [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=puchimilk&pie=false)](https://github.com/evirunurm/github-stats)
