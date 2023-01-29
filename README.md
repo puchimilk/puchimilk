@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=FFFFFF)
 ![Jekyll](https://img.shields.io/badge/-Jekyll-CC0000?style=flat&logo=jekyll&logoColor=FFFFFF)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=FFFFFF)
