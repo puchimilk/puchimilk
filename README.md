@@ -53,4 +53,5 @@ Here are some ideas to get you started:
 ### Socials
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=docker&logoColor=FFFFFF)
-![Qiita](https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![Qiita](https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=FFFFFF)
+![Zenn](https://img.shields.io/badge/-Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=FFFFFF)
