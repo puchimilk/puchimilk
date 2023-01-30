@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- GitHub Stats -->
 [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=puchimilk&pie=false)](https://github.com/evirunurm/github-stats)
 
-## Tech Stacks
+# Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=FFFFFF)
 
-### Tools
+## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=FFFFFF)
 
-### Socials
+## Socials:
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Qiita](https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=FFFFFF)
 ![Zenn](https://img.shields.io/badge/-Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=FFFFFF)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)
