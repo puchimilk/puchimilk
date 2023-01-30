@@ -75,3 +75,4 @@ Here are some ideas to get you started:
 ![Zenn](https://img.shields.io/badge/-Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=FFFFFF)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)
 ![Wantedly](https://img.shields.io/badge/-Wantedly-0A66C2?style=for-the-badge&logo=wantedly&logoColor=FFFFFF)
+![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=FFFFFF)
