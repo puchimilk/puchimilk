@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 ![Jekyll](https://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=FFFFFF)
 
 ### Tools
 
