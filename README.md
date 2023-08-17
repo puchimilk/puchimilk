@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=FFFFFF)
-![React Native](https://img.shields.io/badge/-ReactNative-FFFFFF?style=for-the-badge&logo=reactnative&logoColor=FFFFFF&color=000000)
+![React Native](https://img.shields.io/badge/-React_Native-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB&color=333333)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=FFFFFF)
 ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=FFFFFF)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=FFFFFF)
