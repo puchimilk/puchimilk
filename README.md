@@ -72,6 +72,24 @@ Here are some ideas to get you started:
 
 ## Socials:
 
+<span>
+  <a href="https://github.com/puchimilk">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+</span>
+
+<span>
+  <a href="https://qiita.com/puchimilk">
+    <img src="https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=FFFFFF" />
+  </a>
+</span>
+
+<span>
+  <a href="https://zenn.dev/puchimilk">
+    <img src="https://img.shields.io/badge/-Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=FFFFFF" />
+  </a>
+</span>
+
 ![https://github.com/puchimilk](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![https://qiita.com/puchimilk](https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=FFFFFF)
 ![https://zenn.dev/puchimilk](https://img.shields.io/badge/-Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=FFFFFF)
