@@ -72,17 +72,9 @@ Here are some ideas to get you started:
 
 ## Socials:
 
-<a href="https://github.com/puchimilk">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-
-<a href="https://qiita.com/puchimilk">
-  <img src="https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=FFFFFF" />
-</a>
-
-<a href="https://zenn.dev/puchimilk">
-  <img src="https://img.shields.io/badge/-Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=FFFFFF" />
-</a>
+![https://github.com/puchimilk](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![https://qiita.com/puchimilk](https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=FFFFFF)
+![https://zenn.dev/puchimilk](https://img.shields.io/badge/-Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=FFFFFF)
 
 <!-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF) -->
 <!-- ![Wantedly](https://img.shields.io/badge/-Wantedly-0A66C2?style=for-the-badge&logo=wantedly&logoColor=FFFFFF) -->
