@@ -72,23 +72,23 @@ Here are some ideas to get you started:
 
 ## Socials:
 
-<span>
-  <a href="https://github.com/puchimilk" target="_blank" rel="noreference noopener">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-</span>
-
-<span>
-  <a href="https://qiita.com/puchimilk" target="_blank" rel="noreference noopener">
-    <img src="https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=FFFFFF" />
-  </a>
-</span>
-
-<span>
-  <a href="https://zenn.dev/puchimilk" target="_blank" rel="noreference noopener">
-    <img src="https://img.shields.io/badge/-Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=FFFFFF" />
-  </a>
-</span>
+<div>
+  <span>
+    <a href="https://github.com/puchimilk">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+    </a>
+  </span>
+  <span>
+    <a href="https://qiita.com/puchimilk">
+      <img src="https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=FFFFFF" />
+    </a>
+  </span>
+  <span>
+    <a href="https://zenn.dev/puchimilk">
+      <img src="https://img.shields.io/badge/-Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=FFFFFF" />
+    </a>
+  </span>
+</div>
 
 <!-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF) -->
 <!-- ![Wantedly](https://img.shields.io/badge/-Wantedly-0A66C2?style=for-the-badge&logo=wantedly&logoColor=FFFFFF) -->
