@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 ![React Native](https://img.shields.io/badge/-React_Native-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB&color=333333)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=FFFFFF)
 ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=FFFFFF)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=FFFFFF)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF)
